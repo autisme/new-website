@@ -19,14 +19,11 @@ layout: default
   </div>
 
 
-  {% if page.courtesis or page.translated %}
+  {% include translated.html %}
+
+  {% if page.courtesis %}
    <footer>
-   {% if page.translated %}
-    {% include translated.html %}
-   {% endif %}
-   {% if page.courtesis %}
-    {% include courtesis.html %}
-   {% endif %}
+   {% include courtesis.html %}
    </footer>
   {% endif %}
 
