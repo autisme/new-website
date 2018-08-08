@@ -19,6 +19,7 @@ les groupes, les organisation et les services deviennent plus accessibles aux pe
 Ci-dessous, une liste des différents travaux et des actions que nous avons réalisés ces dernières années.
 
 <ul class="thumb">
+ {% include thumb.html url="/que-puis-je-faire/creez-une-zone-de-detente-et-de-repos" title="Créez une zone de détente et de repos" img="/assets/pages/que-puis-je-faire/creez-une-zone-de-detente-et-de-repos/opengraph.jpg" %}
  {% include thumb.html url="/que-puis-je-faire/verifiez-votre-environnement-sensoriel" title="Vérifiez votre environnement sensoriel" img="/assets/pages/que-puis-je-faire/verifiez-votre-environnement-sensoriel/opengraph.jpg" %}
  {% include thumb.html url="/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes" title="Accessibilité - Faites de votre lieu public un endroit accessible aux personnes autistes" img="/assets/pages/que-puis-je-faire/accessibilite-faites-de-votre-lieu-public-un-endroit-accessible-aux-personnes-autistes/opengraph.jpg" %}
  {% include thumb.html url="/que-puis-je-faire/10-choses-simples-pour-l-inclusion-des-personnes-autistes" title="10 choses simples pour l'inclusion des personnes autistes" img="/assets/pages/que-puis-je-faire/10-choses-simples-l-inclusion-des-personnes-autistes/opengraph.jpg" %}
