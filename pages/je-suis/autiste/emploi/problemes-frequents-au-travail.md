@@ -43,9 +43,9 @@ Cela ne fonctionnera pas et créera des interrogations. Soyez authentiques, poli
  <section>
   <h4><span></span>Aspect social</h4>
   <div>
-La socialisation fait partie de toutes les entreprises. Que vous travaillez dans un petit magasin ou dans un breau, la plupart des métiers requièrent d'interagir avec d'autres personnes à un moment donné, que ce soit un client ou un collègue.
-Ces situation posent un certain nombre de difficultés pour les personnes autistes. Ces dernières travaillent souvent mieux lorsqu'elles sont seules ou avec un groupe réduit d'individus en qui elles peuvent avoir confiance.
-Cela ne correspond pas à ce qu'il se passe dans les entreprise. Cependant, afin de pouvoir travailler dans une équipe, de pouvoir répondre aux demandes des clients et des collègues, quelques stratégies peuvent aider&nbsp;:
+<p>La socialisation fait partie de toutes les entreprises. Que vous travaillez dans un petit magasin ou dans un breau, la plupart des métiers requièrent d'interagir avec d'autres personnes à un moment donné, que ce soit un client ou un collègue.</p>
+<p>Ces situation posent un certain nombre de difficultés pour les personnes autistes. Ces dernières travaillent souvent mieux lorsqu'elles sont seules ou avec un groupe réduit d'individus en qui elles peuvent avoir confiance.
+Cela ne correspond pas à ce qu'il se passe dans les entreprise. Cependant, afin de pouvoir travailler dans une équipe, de pouvoir répondre aux demandes des clients et des collègues, quelques stratégies peuvent aider&nbsp;:</p>
 
 <ol>
  <li>Être poli avec les personnes autour de nous rend les échanges plus facile et peut également créer des opportunités pour se faire des amis et socialiser.</li>
@@ -67,11 +67,11 @@ propre routine
 ou rituels. Cela peut rendre difficile le respect des procédures de certaines entreprises.
 Respecter les délais peut être particulièrement difficile
 et certains d'entre nous ont du mal à travailler dans les grandes organisations
-quand on ne sait pas à qui l'on doit rendre compte ou ce qui est attendu de nous.
-Cependant, nous aimons généralement une structure et des plans solides,
+quand on ne sait pas à qui l'on doit rendre compte ou ce qui est attendu de nous.</p>
+<p>Cependant, nous aimons généralement une structure et des plans solides,
 alors prenez le temps de comprendre comment l'entreprise fonctionne, car
-cela peut vous fournir une sécurité.
-Si vous avez du mal à respecter les délais ou à faire face à la bureaucratie de l'entreprise, parlez-en à vos
+cela peut vous fournir une sécurité.</p>
+<p>Si vous avez du mal à respecter les délais ou à faire face à la bureaucratie de l'entreprise, parlez-en à vos
 responsables qui pourront adapter le travail et la vitesse de travail à la manière qui vous convient.</p>
   </div>
  </section>
@@ -117,7 +117,7 @@ nous avons fait une liste des capacités que vous pouvez apporter à l'entrepris
   <li><strong>Honnêteté</strong>&nbsp;: beaucoup de personnes autistes sont très franches et ne tentent
 pas de modifier la réalité ou de déformen les choses. C'est quelque chose dont les entreprises
 ont souvent besoin&nbsp;!</li>
-  <liAttention aux détails</strong>&nbsp;: beaucoup d'entre nous aiment les détails et la perfection.
+  <li><strong>Attention aux détails</strong>&nbsp;: beaucoup d'entre nous aiment les détails et la perfection.
 Les entreprises ont besoin de ces personnes&nbsp;!</li>
   <li><strong>Loyauté</strong>&nbsp;: Lorsque nous avons confiance en des personnes ou des organisations,
 beaucoup d'entre nous sont très fidèles et nous serons heureux de travailler avec eux
