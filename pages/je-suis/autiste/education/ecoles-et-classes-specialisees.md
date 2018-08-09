@@ -29,11 +29,14 @@ tout en recevant de l'aide dans les domaines où ils ont des difficultés.
   <h4><span></span>Accéder aux écoles et classes adaptées</h4>
   <div>
    <p>D'après la loi du 11 février 2005, le droit à l'éducation pour tous les enfants, quel que soit leur handicap, est un droit fondamental. Chaque école a vocation à accueillir tous les enfants, quels que soient leurs besoins. Par conséquent, 
-une école ne peut pas refuser votre enfant au motif qu'il soit autiste</p>
-   <p>Pour accéder aux écoles et classes spécialisées, le handicap de votre enfant doit être reconnu par la Maison Départementale pour les Personnes Handicapées. Une fois cette reconnaissance obtenue, vous devrez prendre un rendez-vous avec l'enseignement référent
-qui vous sera attribué.</p>
-   <p>Uné réunion sera organisée pendant laquelle vous discuterez de l'orientation et des aménagements que vous souhaitez. Cela devra encore être validé par une comission <abbr title="Commissions des Droits et de l'Autonomie pour les Personnes Handicapées ">CDAPH</abbr> de la Maison Départementale pour les Personnes Handicapées.</p>
+une école ne peut pas refuser votre enfant au motif qu'il soit autiste.</p>
+   <p>Pour accéder aux écoles et classes spécialisées, le handicap de votre enfant doit être reconnu par la Maison Départementale pour les Personnes Handicapées. Une fois cette reconnaissance obtenue, vous devrez demander la mise en place d'un Projet Personnalisé de Scolarisation.</p>
+<p>Dans ce document, vous décrirez les besoins de votre enfant, et mentionnerez votre souhait de l'inscrire dans une école ou classe adaptée.</p>
+<p>Cela devra encore être validé par une comission <abbr title="Commissions des Droits et de l'Autonomie pour les Personnes Handicapées ">CDAPH</abbr> de la Maison Départementale pour les Personnes Handicapées.</p>
    <p>Une fois la notification reçue, vous pourrez vous inscrire dans la classe ou l'école spécialisée de votre choix. Néanmoins, vous devez faire attention aux longues listes d'attentes de ces structures. </p>
+
+<p>Une fois par an, une réunion de suivie sera organisée par un enseignant référent attribué par la MDPH. Cette réunion impliquant les enseignants, les parents et les professionnels de santé qui cotoient votre enfant
+sera l'occasion de discuter des aménagements mis en place, de vérifier s'ils fonctionnent et s'il faut corriger quelque chose. Ce moment sera également l'occasion de réfléchir à un retour dans une classe ordinaire si cela est envisageable.</p>
   </div>
  </section>
  <section>

@@ -48,21 +48,19 @@ Souvenez-vous que «&nbsp;la connaissance c'est le pouvoir&nbsp;» et que vous p
  {% include thumb.html url="/je-suis/autiste/education/amenagements-a-l-universite" title="Aménagements à l'Université" img="/assets/pages/je-suis/autiste/education/amenagements-a-l-universite/opengraph.jpg" %} 
  {% include thumb.html url="/je-suis/autiste/education/evaluations-et-examens" title="Évaluations et Examens" img="/assets/pages/je-suis/autiste/education/evaluations-et-examens/opengraph.jpg" %} 
  {% include thumb.html url="/je-suis/autiste/education/ecoles-et-classes-specialisees" title="Écoles et Classes spécialisées" img="/assets/pages/je-suis/autiste/education/ecoles-et-classes-specialisees/opengraph.jpg" %} 
- {% include thumb.html url="/je-suis/autiste/education/transition" title="Transition" img="/assets/pages/je-suis/autiste/education/transition/opengraph.jpg" %} 
+ {% include thumb.html url="/je-suis/autiste/education/changement-d-ecole" title="Changement d'école" img="/assets/pages/je-suis/autiste/education/changement-d-ecole/opengraph.jpg" %} 
 </ul>
 
 ## Emploi
 
 <ul class="thumb">
- {% include thumb.html url="/je-suis-une-personne-autiste/dois-je-annoncer-mon-autisme" title="Dois-je annoncer mon autisme" img="/assets/undefined_.png" %} 
- <li><a href="/je-suis-une-personne-autiste/environnement-de-travail">
-  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/personal/environnement-de-travail/ID-100394985.jpg"></amp-img>
-  <span>Environnement de travail</span>
- </a></li>
- <li><a href="/je-suis-une-personne-autiste/problemes-au-travail">
-  <amp-img width="320" height="188" alt="" src="{{ site.amp_img_cache_url }}/assets/pages/personal/problemes-au-travail/shutterstock_400477627_1.jpg"></amp-img>
-  <span>Problèmes souvent rencontrés au travail</span>
- </a></li>
+ {% include thumb.html url="/je-suis/autiste/emploi/annoncer-son-diagnostic-au-travail" title="Annoncer son diagnostic au travail" img="/assets/pages/je-suis/autiste/emploi/annoncer-son-diagnostic-au-travail/opengraph.jpg" %} 
+ {% include thumb.html url="/je-suis/autiste/emploi/environnement-de-travail" title="Environnement de travail" img="/assets/pages/je-suis/autiste/emploi/environnement-de-travail/opengraph.jpg" %} 
 </ul>
 
+## Vie sociale
 
+<ul class="thumb">
+ {% include thumb.html url="/je-suis/autiste/vie-sociale/socialiser" title="Vie sociale" img="/assets/pages/je-suis/autiste/vie-sociale/socialiser/opengraph.jpg" %}
+ {% include thumb.html url="/je-suis/autiste/vie-sociale/stress-et-anxiete" title="Stress et Anxiété" img="/assets/pages/je-suis/autiste/vie-sociale/stress-et-anxiete/opengraph.jpg" %}
+</ul>

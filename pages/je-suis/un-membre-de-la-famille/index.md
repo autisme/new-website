@@ -18,12 +18,14 @@ L'assurance d'obtenir un diagnostic approprié, l'accès aux aides et au
 soutien nécessaire pour que la personne puisse développer son potentiel, vivre une vie heureuse et aussi indépendante que possible en sont quelques exemples.
 
 
-<!--
 ## Éducation
 
 <ul class="thumb">
+ {% include thumb.html url="/je-suis/un-membre-de-la-famille/education/projet-personnalise-de-scolarisation" title="Projet Personnalisé de Scolarisation" img="/assets/pages/je-suis/un-membre-de-la-famille/education/projet-personnalise-de-scolarisation/opengraph.jpg" %}
+ {% include thumb.html url="/je-suis/un-membre-de-la-famille/education/quels-professionnels-pour-vous-apporter-de-l-aide" title="Quels professionnels pour vous apporter de l'aide&nbsp;?" img="/assets/pages/je-suis/un-membre-de-la-famille/education/quels-professionnels-pour-vous-apporter-de-l-aide/opengraph.jpg" %}
+ {% include thumb.html url="/que-puis-je-faire#Education" title="Découvrez nos actions et ressources pour la scolarisation des élèves autistes" img="/assets/pages/que-puis-je-faire/opengraph.jpg" color="blue" %}
 </ul>
--->
+
 
 ## À la maison
 
