@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Questions fréquentes (FAQs)
+title: Questions fréquentes (FAQ)
 permalink: /qu-est-ce-que-l-autisme/faq
 header_link: false
 courtesis:
