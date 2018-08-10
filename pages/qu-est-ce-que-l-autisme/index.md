@@ -20,7 +20,7 @@ Dans les sections ci-dessous, nous introduisons le handicap et ses caractéristi
  {% include thumb.html url="/qu-est-ce-que-l-autisme/signes-et-caracteristiques" title="Signes et Caractéristiques" img="/assets/pages/qu-est-ce-que-l-autisme/signes-et-caracteristiques/opengraph.jpg" %}
  {% include thumb.html url="/qu-est-ce-que-l-autisme/handicaps-associes" title="Handicaps fréquemment associés" img="/assets/pages/qu-est-ce-que-l-autisme/handicaps-associes/opengraph.jpg" %}
  {% include thumb.html url="/qu-est-ce-que-l-autisme/syndrome-d-asperger" title="Syndrome d'Asperger" img="/assets/pages/qu-est-ce-que-l-autisme/syndrome-d-asperger/opengraph.jpg" %}
- {% include thumb.html url="/qu-est-ce-que-l-autisme/faq" title="Questions fréquentes" img="/assets/pages/qu-est-ce-que-l-autisme/faq/opengraph.jpg" %}
+ {% include thumb.html url="/qu-est-ce-que-l-autisme/faq" title="Questions fréquentes (FAQs)" img="/assets/pages/qu-est-ce-que-l-autisme/faq/opengraph.jpg" %}
  {% include thumb.html url="/qu-est-ce-que-l-autisme/mythes-et-prejuges" title="Mythes et Préjugés" img="/assets/pages/qu-est-ce-que-l-autisme/mythes-et-prejuges/opengraph.jpg" %}
 </ul>
 
