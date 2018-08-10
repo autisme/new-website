@@ -56,7 +56,10 @@ Il est aussi important de se rappeler que le harcèlement peut être direct ou i
   <h4><span></span>Savoir ce qu'il est possible de faire</h4>
   <div>
 <p>Avant d’entreprendre quoi que ce soit, il est bon de connaître toutes les options que vous avez et d’élaborer un plan. Il y a beaucoup de groupes de soutien disponibles dont vous pouvez profiter. Ceux-ci sont listés en bas de cette page. Ces organisations offrent des conseils sur les options qui vous sont disponibles et sur les étapes que vous pouvez faire.</p>
-<p>S’il y a une procédure de plainte au travail, renseignez vous sur son fonctionnement et utilisez-la. Si vous sentez que votre travail ne prend pas votre plainte au sérieux ou n’a pas réussi à la traiter correctement, vous pouvez</p>
+<p>S’il y a une procédure de plainte au travail, renseignez vous sur son fonctionnement et utilisez-la.</p>
+<!--
+ Si vous sentez que votre travail ne prend pas votre plainte au sérieux ou n’a pas réussi à la traiter correctement, vous pouvez</p>
+-->
   </div>
  </section>
 </amp-accordion>
